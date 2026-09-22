@@ -11,7 +11,6 @@
  * Reference paper for the program:
  * Abbak, R. A., Tongur V., Kilic A., Ulker E. (2026). A Novel Multithreaded Parallel Computing Approach
  * for Solving Convolution Integrals in Geoid Modelling, Journal of Applied Geophysics, 254: 106481. 
- *  
  *
  * Compilation of the program on Linux: 
  * g++ LSMSSOFT2.0.cpp matris.cpp levelell.cpp -o LSMSSOFT -pthread
