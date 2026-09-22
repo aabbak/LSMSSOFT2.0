@@ -3,13 +3,14 @@
  * This program is distributed under the terms of a GNU License (ver. 1).
  * Hopefully, this program will be useful, but WITHOUT ANY WARRANTY. 
  *
- * Author    : R. Alpay ABBAK
+ * Author     : R. Alpay ABBAK
  * Address    : Konya Technical University, Geomatics Engineering Dept, Konya, TURKEY
  * E-Mail     : raabbak@ktun.edu.tr
  *
  * Reference paper for the program:
- * Abbak et al., (2025). A Novel Multithreaded Parallel Computing Approach for Solving 
- * Convolution Integrals in Geoid Modelling, Computer & Geosciences, DOI:  
+ * Abbak, R. A., Tongur V., Kilic A., Ulker E. (2026). A Novel Multithreaded Parallel Computing 
+ * Approach for Solving Convolution Integrals in Geoid Modelling, Journal of Applied Geophysics, 
+ * 254:106481. 
  *
  * Compilation of the program on Linux: 
  * g++ LSMSSOFT2.0.cpp matris.cpp levelell.cpp -o LSMSSOFT -pthread
